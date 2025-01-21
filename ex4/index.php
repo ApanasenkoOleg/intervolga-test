@@ -67,3 +67,4 @@ TXT;
 
 $truncator = new HtmlTextTruncator(29);
 echo $truncator->truncate($text);
+?>
